@@ -25,7 +25,7 @@ $ npm run start:prod
 * PostgreSQL  14 or Later
 
 ## Running the app with Docker
-### Check .env file and specify port that not in use on you machine now. Edit Dockerfile nad docker-compose.yml too. 
+### Check .env file and specify port that not in use on your machine now. Edit Dockerfile nad docker-compose.yml too. 
 ```bash
 # For Ubuntu Linux Docker Compose version from sources
 sudo docker compose up --build
